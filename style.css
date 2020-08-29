@@ -1,0 +1,24 @@
+.bannerfooter{
+    background-color:  #4a3728;
+}
+.blanco{
+    color: white;
+}
+#ban{
+    padding: 2rem;
+}
+.lm{
+    background-color: orange;
+}
+.tm{
+    background-color: rosybrown;
+}
+.ctt{
+    padding: 4rem;
+}
+.par{
+    background-color: mediumturquoise;
+}
+.impar{
+    background-color: indianred;
+}
